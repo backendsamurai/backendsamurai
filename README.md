@@ -12,8 +12,8 @@
 <div>
 <h2>🏆 My Stats:</h2>
 <p>
-  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=backendsamurai&show_icons=true&theme=dracula&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_size=300"/>&nbsp;&nbsp;
-<img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendsamurai&layout=donut&theme=dracula" />
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=backendsamurai&show_icons=true&theme=dracula&include_all_commits=true&include_orgs=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_size=300"/>&nbsp;&nbsp;
+<img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendsamurai&include_orgs=true&layout=donut&theme=dracula" />
 </p>
 </div>
 
