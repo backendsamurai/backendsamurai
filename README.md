@@ -1,6 +1,6 @@
 ## Hi there 👋, I`m Vitalii!
 - I currently not working in big company with proffessionals and I need a work :)
-- I love Linux 🐧 , .NET and React
+- I love Linux 🐧
 - I love learning new tools and technologies, it's so cool.
 - I`m using Fedora Linux everyday and this is cool.
 - Anyone who wants to support my projects, write to me, I will be grateful for any help.
